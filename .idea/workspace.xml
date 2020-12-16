@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84940336-3fbf-4386-a95f-9afdf255c027" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1l3kLCFn5T5V0EI4t7QSVNrina3" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunManager" selected="JUnit.statTests">
+    <configuration name="statTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.statTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statTests.deleteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.statTests" />
+      <option name="METHOD_NAME" value="deleteTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statTests.testStatisticsIfReturnCorrectCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.statTests" />
+      <option name="METHOD_NAME" value="testStatisticsIfReturnCorrectCount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statTests.testStatisticsIfReturnCorrectMin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.statTests" />
+      <option name="METHOD_NAME" value="testStatisticsIfReturnCorrectMin" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="statTests.testStatisticsIfReturnCorrectSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="coding-challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.n26.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.n26" />
+      <option name="MAIN_CLASS_NAME" value="com.n26.statTests" />
+      <option name="METHOD_NAME" value="testStatisticsIfReturnCorrectSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.statTests" />
+        <item itemvalue="JUnit.statTests.testStatisticsIfReturnCorrectCount" />
+        <item itemvalue="JUnit.statTests.testStatisticsIfReturnCorrectSum" />
+        <item itemvalue="JUnit.statTests.deleteTest" />
+        <item itemvalue="JUnit.statTests.testStatisticsIfReturnCorrectMin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84940336-3fbf-4386-a95f-9afdf255c027" name="Default Changelist" comment="" />
+      <created>1606833103605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606833103605</updated>
+      <workItem from="1606833113143" duration="16342000" />
+      <workItem from="1606866919785" duration="9889000" />
+      <workItem from="1606989828253" duration="17807000" />
+      <workItem from="1607072173101" duration="695000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="101" key="#com.intellij.ide.util.MemberChooser" timestamp="1607010425291">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="453" y="101" key="#com.intellij.ide.util.MemberChooser/0.25.1280.713@0.25.1280.713" timestamp="1607010425291" />
+    <state x="322" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1606839262704">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="322" y="25" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.25.1280.713@0.25.1280.713" timestamp="1606839262704" />
+    <state x="348" y="153" key="#xdebugger.evaluate" timestamp="1607009120934">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="348" y="153" key="#xdebugger.evaluate/0.25.1280.713@0.25.1280.713" timestamp="1607009120934" />
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom" timestamp="1607072868040">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.bottom/0.25.1280.713@0.25.1280.713" timestamp="1607072868040" />
+    <state width="1238" height="174" key="GridCell.Tab.0.center" timestamp="1607072868039">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.center/0.25.1280.713@0.25.1280.713" timestamp="1607072868039" />
+    <state width="1238" height="174" key="GridCell.Tab.0.left" timestamp="1607072868039">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.left/0.25.1280.713@0.25.1280.713" timestamp="1607072868039" />
+    <state width="1238" height="174" key="GridCell.Tab.0.right" timestamp="1607072868040">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="174" key="GridCell.Tab.0.right/0.25.1280.713@0.25.1280.713" timestamp="1607072868040" />
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom" timestamp="1607011159069">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.bottom/0.25.1280.713@0.25.1280.713" timestamp="1607011159069" />
+    <state width="1238" height="216" key="GridCell.Tab.1.center" timestamp="1607011159068">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.center/0.25.1280.713@0.25.1280.713" timestamp="1607011159068" />
+    <state width="1238" height="216" key="GridCell.Tab.1.left" timestamp="1607011159068">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.left/0.25.1280.713@0.25.1280.713" timestamp="1607011159068" />
+    <state width="1238" height="216" key="GridCell.Tab.1.right" timestamp="1607011159068">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state width="1238" height="216" key="GridCell.Tab.1.right/0.25.1280.713@0.25.1280.713" timestamp="1607011159068" />
+    <state x="178" y="40" key="Maven.ArtifactSearchDialog" timestamp="1606990259667">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="178" y="40" key="Maven.ArtifactSearchDialog/0.25.1280.713@0.25.1280.713" timestamp="1606990259667" />
+    <state x="149" y="25" width="982" height="713" key="SettingsEditor" timestamp="1607004154022">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="149" y="25" width="982" height="713" key="SettingsEditor/0.25.1280.713@0.25.1280.713" timestamp="1607004154022" />
+    <state x="433" y="163" key="chooseDestDirectoryDialog" timestamp="1606991198300">
+      <screen x="0" y="25" width="1280" height="713" />
+    </state>
+    <state x="433" y="163" key="chooseDestDirectoryDialog/0.25.1280.713@0.25.1280.713" timestamp="1606991198300" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/it/java/com/n26/HttpJsonIT.java</url>
+          <line>428</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
