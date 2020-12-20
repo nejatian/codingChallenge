@@ -26,7 +26,7 @@ automated tests that will be used to evaluate the solution.
 ● In addition to passing the tests, the solution must be at a quality level that you
 would be comfortable enough to put in production.
 <br/>
-<h1>Problem challenge<h1/>
+<h1>Problem challenge</h1>
   <br/>
 We would like to have a RESTful API for our statistics. The main use case for the API is to calculate realtime statistics for the last 60 seconds of transactions.
   <br/>
