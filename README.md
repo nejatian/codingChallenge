@@ -1,6 +1,6 @@
 # codingChallenge
 coding challenge for N26
-
+CODECOV_TOKEN=69f6856d-b92b-4a80-9d68-2993361acd29
 <h1>Requirements</h1>
 <br/>
 These are the additional requirements for the solution:
